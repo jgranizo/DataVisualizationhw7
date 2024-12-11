@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/DataVisualizationhw7/static/css/main.31d6cfe0.css",
+    "main.js": "/DataVisualizationhw7/static/js/main.a9f67e00.js",
+    "index.html": "/DataVisualizationhw7/index.html",
+    "main.a9f67e00.js.map": "/DataVisualizationhw7/static/js/main.a9f67e00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.a9f67e00.js"
+  ]
+}
